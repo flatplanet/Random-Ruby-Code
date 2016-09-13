@@ -1,5 +1,12 @@
+####################################################
+#
+# Create a Simple Menu in a Method, get user input
+# John Elder 
+# JohnElder.org
+#
+####################################################
+
 def menu ()
-    
     menu_string = "1. Show Menu\n"
     menu_string += "2. Add Numbers\n"
     menu_string += "3. Subtract Numbers\n"
