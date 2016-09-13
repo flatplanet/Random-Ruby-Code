@@ -1,4 +1,4 @@
-Rando Ruby Code
+Random Ruby Code
 ========================================================
 - Written in Ruby
 
