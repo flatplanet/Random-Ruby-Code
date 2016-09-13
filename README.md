@@ -1,13 +1,13 @@
 Random Ruby Code
---------------------------------------------------------
+========================================================
+
 
 - Written in Ruby
 
 
 John Elder ([JohnElder.org](http://JohnElder.org))
   
-========================================================
-
+--------------------------------------------------------
 
 These are just random Ruby programs that I wrote to 
 learn something new, or snippets of code that I 
