@@ -22,8 +22,9 @@ keep writing the same code over and over.
 
 - **read_write_file_modes.rb** Ruby File Open Modes:
 
+- **classes.rb** Intro Into Classes
+
 - **class_getters_setters.rb** Creating Class Getters and Setters
 
 - **classes_attr_accessor.rb** Automatically write your Getter and Setter and instance variables on the fly...
 
-- **classes.rb** Intro Into Classes
