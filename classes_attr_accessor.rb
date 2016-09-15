@@ -7,7 +7,7 @@ class Product
 
 
   # Always Initialize It First
-  def initialize( description, price)
+  def initialize( description, price )
     @id = rand(100...999)
     @description = description
     @price = price
