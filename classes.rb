@@ -19,7 +19,7 @@ class Product
     end
     
     def to_s
-        # return by rewriting to_s :-p
+        # return by rewriting to_s :-p and add tabs with \t
         return "#{@id}\t#{@description}\t#{@price}"
     end
 end
