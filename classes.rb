@@ -24,8 +24,8 @@ class Product
     end
 end
 
-book = Product.new( "Ruby On Rails For Web Development", 26.95)
-book2 = Product.new( "Intro To Ruby", 25.95)
+book = Product.new( "Ruby On Rails For Web Development", 26.95 )
+book2 = Product.new( "Intro To Ruby", 25.95 )
 
 puts book
 puts book2
