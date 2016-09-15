@@ -19,3 +19,11 @@ keep writing the same code over and over.
 - **menu_method.rb**  Create a simple menu and while loop through it
 
 - **open_file.rb**   Open a file and output it's contents
+
+- **read_write_file_modes.rb** Ruby File Open Modes:
+
+- **class_getters_setters.rb** Creating Class Getters and Setters
+
+- **classes_attr_accessor.rb** Automatically write your Getter and Setter and instance variables on the fly...
+
+- **classes.rb** Intro Into Classes
