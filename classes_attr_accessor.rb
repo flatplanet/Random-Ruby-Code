@@ -1,6 +1,6 @@
 # Delete the Getter and Setter from classes_getters_setters.rb, replace them with attr_accessor
 # which will write your Getter and Setter and instance variables on the fly...
-# ...but not your Initialize instance variables!
+# ...but not your Initialize method instance variables!
 
 class Product
   attr_accessor :description
