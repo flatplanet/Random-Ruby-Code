@@ -20,7 +20,7 @@ keep writing the same code over and over.
 
 - **open_file.rb**   Open a file and output it's contents
 
-- **read_write_file_modes.rb** Ruby File Open Modes:
+- **read_write_file_modes.rb** Ruby File Open Modes
 
 - **classes.rb** Intro Into Classes
 
