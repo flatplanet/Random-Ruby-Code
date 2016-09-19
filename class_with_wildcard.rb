@@ -20,3 +20,6 @@ book = Product.new( "a thing", "another thing", 3, 4, "last thing")
 # Call the thing!
 puts book.do_something[2]
 
+# Inspect the thing
+puts book.do_something.inspect
+
