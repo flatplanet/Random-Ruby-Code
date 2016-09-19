@@ -21,4 +21,4 @@ puts lion.inspect
 puts lion.speak
 
 # Color from Animal class!
-puts lion.color
+puts lion.color 
