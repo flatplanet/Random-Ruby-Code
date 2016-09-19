@@ -28,3 +28,6 @@ keep writing the same code over and over.
 
 - **classes_attr_accessor.rb** Automatically write your Getter and Setter and instance variables on the fly...
 
+-  **class_inheritance.rb** Example of Class Inheritance
+
+- **class_with_wildcard.rb** Initialize a Class with a Wildcard Splat Argument

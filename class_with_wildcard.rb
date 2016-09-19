@@ -1,6 +1,6 @@
 # Classes Start With Capital Letters
 class Product
-  # Always Initialize It First push wildcards into the initialization with *placeholder
+  # Always Initialize It First push wildcards into the initialization with *placeholder splat argument
   def initialize( *placeholder_args )
     #suck in whatever you passed during initialization into a @whatever array
     @whatever = placeholder_args
