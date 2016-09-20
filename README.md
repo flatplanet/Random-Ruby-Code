@@ -31,3 +31,5 @@ keep writing the same code over and over.
 -  **class_inheritance.rb** Example of Class Inheritance
 
 - **class_with_wildcard.rb** Initialize a Class with a Wildcard Splat Argument
+
+- **each_with_index.rb** Each Loop With An Index
