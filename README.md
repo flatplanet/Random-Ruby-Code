@@ -33,3 +33,5 @@ keep writing the same code over and over.
 - **class_with_wildcard.rb** Initialize a Class with a Wildcard Splat Argument
 
 - **each_with_index.rb** Each Loop With An Index
+
+- **modify_plus+method.rb** + is just a Ruby method, let's change it a bit
