@@ -10,5 +10,6 @@ box = []
 end
 
 box.each do | row |
+  # Add space between each outputed item
   puts row.join( ' ' )
 end
